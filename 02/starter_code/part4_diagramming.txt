@@ -1,0 +1,15 @@
+print how many days till ass default
+scan days
+if (10 < days) {
+    // run code
+} else if (7 <= days && days <= 10) {
+    print started ass?
+    scan answer
+    if (answer == yes) {
+
+    } else {
+        
+    }
+} else {
+    // run code 3
+}
